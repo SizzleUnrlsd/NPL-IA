@@ -1,0 +1,5 @@
+{
+    "description": "Train a basic n-gram model and use it to generate text.",
+    "num_words": 1,
+    "default sentence": "Les chats "
+}
