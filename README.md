@@ -8,14 +8,14 @@ Train a basic n-gram model and use it to generate text.
 
 -----------------
 
-`positional arguments:`
-  files                 Text files to use for training the model
+`positional arguments:
+    files                 Text files to use for training the model
 
-options:
-  -h, --help            show this help message and exit\n
-  -n NUM_WORDS, --num_words NUM_WORDS
-                        Number of words to generate
-  -s START_SENTENCE, --start_sentence START_SENTENCE
-                        Start of the sentence to generate from
+  options:
+    -h, --help            show this help message and exit\n
+    -n NUM_WORDS, --num_words NUM_WORDS
+                          Number of words to generate
+    -s START_SENTENCE, --start_sentence START_SENTENCE
+                          Start of the sentence to generate from`
 
 -----------------
