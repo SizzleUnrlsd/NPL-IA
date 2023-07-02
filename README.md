@@ -9,9 +9,9 @@ Train a basic n-gram model and use it to generate text.
 positional arguments:
   files                 Text files to use for training the model
 
-options:
-  -h, --help            show this help message and exit
-  -n NUM_WORDS, --num_words NUM_WORDS
+options:\n
+\t-h, --help            show this help message and exit\n
+\t-n NUM_WORDS, --num_words NUM_WORDS\n
                         Number of words to generate
-  -s START_SENTENCE, --start_sentence START_SENTENCE
+\t-s START_SENTENCE, --start_sentence START_SENTENCE
                         Start of the sentence to generate from
